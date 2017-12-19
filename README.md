@@ -1,10 +1,10 @@
-#CSE 505 Project - Improving Adherence to Heart Failure Management Guidelines via Abductive Reasoning
+# CSE 505 Project - Improving Adherence to Heart Failure Management Guidelines via Abductive Reasoning
 
-#Student Details:
+## Student Details:
 
 	Name		-	FNU Gaurav
 
-#Main Project Folders/File Descriptions:
+## Main Project Folders/File Descriptions:
 
 	- ./sasp
 		s(ASP) program that functions as ASP solver for the given project.lp
@@ -15,7 +15,7 @@
 	- ./README.md
 		The file that you are reading right now
 
-#Steps to setup:
+## Steps to setup:
 
 	- On UNIX based systems (ubuntu, MacOSX)
 		* `./sasp -i -la -s0 project.lp`
@@ -23,7 +23,7 @@
 		* `recommendation(diuretics, class_1).` or `recommendation(beta_blockers, class_2a).`
 			-- This serves as the sample input for the sample rules and sample patient data that we have extracted from the paper that we are planning to use for the demonstration/verification of the workings of the paper.
 
-# Help options for s(ASP) system
+## Help options for s(ASP) system
 
 The available options are:
 
