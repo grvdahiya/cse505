@@ -1,6 +1,6 @@
-CSE 505 Project - Improving Adherence to Heart Failure Management Guidelines via Abductive Reasoning
+#CSE 505 Project - Improving Adherence to Heart Failure Management Guidelines via Abductive Reasoning
 
-Student Details:
+#Student Details:
 
 	Name		-	FNU Gaurav
 
