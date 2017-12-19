@@ -39,6 +39,7 @@ The available options are:
 	checks.
 	-la Print a separate list of succeeding abducibles with each CHS. List will only be printed if at least one abducible has succeeded.
 
-Reference:
+### Reference:
+
 	- https://sourceforge.net/projects/sasp-system/ for s(ASP)
 	- https://arxiv.org/pdf/1707.04957.pdf for PDF version of above stated paper
